@@ -1,4 +1,21 @@
-ET3010
-======
+LTKA - H2/2014
+==============
 
-ET3010 LTKA
+ET-3010  
+**Layanan Tersambung dan Komputasi Awan**   
+Dr.-Ing. Eueung Mulyana
+
+
+Referensi MOOC
+--------------
+- ...  
+  https://...  
+
+Referensi Lain + Tools + etc.
+--------------
+- ...  
+  http://...  
+  https://...
+
+
+
