@@ -26,15 +26,15 @@ Slides
 - Komputasi Awan   
   https://speakerdeck.com/eueung/ltka-05   
 
-Referensi MOOC
+Literatur
 --------------
-- ...  
-  https://...  
+- Paul Golding, **Connected Services: A Guide to the Internet Technologies Shaping the Future of Mobile Services and Operators**, John Wiley & Sons Ltd., 2011, ISBN 978-0-470-97455-1
+- Dan C. Marinescu, **Cloud Computing Theory and Practice**, Morgan Kaufmann, Elsevier Inc., 2013, ISBN: 978-0-12404-627-6
 
 Referensi Lain + Tools + etc.
 --------------
-- ...  
-  http://...  
-  https://...
+- **Networked Life**  
+  https://www.coursera.org/course/networks  
+  
 
 
