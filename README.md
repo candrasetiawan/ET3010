@@ -1,11 +1,14 @@
-LTKA - H2/2014
+LTKA - H1/2016
 ==============
 
 ET-3010  
 **Layanan Tersambung dan Komputasi Awan**   
-Dr.-Ing. Eueung Mulyana
+**Connected Services and Cloud Computing**  
+Dr.-Ing. Eueung Mulyana  
+**Institut Teknologi Bandung**  
+eueung(-at-)stei.itb.ac.id
 
-Slides
+Slides (Revisions on Progress)
 --------------
 - Pengenalan LTKA   
   https://speakerdeck.com/eueung/ltka-01   
