@@ -10,16 +10,14 @@ eueung(-at-)stei.itb.ac.id
 
 Slides (Revisions on Progress)
 --------------
-- Introduction to Connected Services  
-  https://speakerdeck.com/eueung/introduction-to-connected-services  
-  [Previous Version](https://speakerdeck.com/eueung/ltka-01)   
+- [Introduction to Connected Services](https://speakerdeck.com/eueung/introduction-to-connected-services)  
+  Previous Version - [PDF](https://speakerdeck.com/eueung/ltka-01)   
 
-- CS - Models and Architecture  
-  https://speakerdeck.com/eueung/connected-services-models-and-architecture  
-  [Previous Version](https://speakerdeck.com/eueung/ltka-02)
+- Connected Services - [Models and Architecture](https://speakerdeck.com/eueung/connected-services-models-and-architecture)    
+  Previous Version - [PDF](https://speakerdeck.com/eueung/ltka-02)
 
-- Konvergensi dan Ekosistem Layanan Tersambung  
-  https://speakerdeck.com/eueung/ltka-03
+- [Service Convergence & Digital Ecosystems](...)   
+  Previous Version - [PDF](https://speakerdeck.com/eueung/ltka-03)
 
 - Connected Things (Internet of Things - IoT)  
   https://speakerdeck.com/eueung/ltka-04-01a  
