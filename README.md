@@ -30,12 +30,16 @@ Slides (Revisions on Progress)
 - Komputasi Awan   
   https://speakerdeck.com/eueung/ltka-05   
 
-Literatur
+Labs
+--------------
+- Arduino Basics [Online](http://eueung.github.io/ET3010/arduino) | [PDF](https://speakerdeck.com/eueung/arduino-basics)
+
+References
 --------------
 - Paul Golding, **Connected Services: A Guide to the Internet Technologies Shaping the Future of Mobile Services and Operators**, John Wiley & Sons Ltd., 2011, ISBN 978-0-470-97455-1
 - Dan C. Marinescu, **Cloud Computing Theory and Practice**, Morgan Kaufmann, Elsevier Inc., 2013, ISBN: 978-0-12404-627-6
 
-Referensi Lain + Tools + etc.
+Others
 --------------
 - **Networked Life**  
   https://www.coursera.org/course/networks  
