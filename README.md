@@ -16,7 +16,8 @@ Slides (Revisions on Progress)
 - Connected Services - [Models and Architecture](https://speakerdeck.com/eueung/connected-services-models-and-architecture)    
   Previous Version - [PDF](https://speakerdeck.com/eueung/ltka-02)
 
-- [Service Convergence & Digital Ecosystems](...)   
+- Services Convergence & Digital Ecosystems [Part-1](https://speakerdeck.com/eueung/services-convergence)    
+  Services Convergence & Digital Ecosystems [Part-2](...)    
   Previous Version - [PDF](https://speakerdeck.com/eueung/ltka-03)
 
 - Connected Things (Internet of Things - IoT)  
