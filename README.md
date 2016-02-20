@@ -17,7 +17,7 @@ Slides (Revisions on Progress)
   Previous Version - [PDF](https://speakerdeck.com/eueung/ltka-02)
 
 - Services Convergence & Digital Ecosystems [Part-1](https://speakerdeck.com/eueung/services-convergence)    
-  Services Convergence & Digital Ecosystems [Part-2](...)    
+  Services Convergence & Digital Ecosystems [Part-2](https://speakerdeck.com/eueung/digital-ecosystems)    
   Previous Version - [PDF](https://speakerdeck.com/eueung/ltka-03)
 
 - Connected Things (Internet of Things - IoT)  
