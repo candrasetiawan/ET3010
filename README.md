@@ -34,6 +34,7 @@ Labs
 --------------
 - Arduino Basics [Online](http://eueung.github.io/ET3010/arduino) | [PDF](https://speakerdeck.com/eueung/arduino-basics)
 - ESP8266 Basics [Online](http://eueung.github.io/ET3010/esp8266) | [PDF](https://speakerdeck.com/eueung/esp8266-basics)
+- SBCs & Raspberry Pi Basics [Online](http://eueung.github.io/ET3010/raspi) | [PDF](https://speakerdeck.com/eueung/single-board-computers-and-raspberry-pi-basics)
 
 References
 --------------
