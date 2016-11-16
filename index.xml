@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ET-3010</title>
+    <link>https://eueung.github.io/ET3010/index.xml</link>
+    <description>Recent content on ET-3010</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>CC</copyright>
+    <atom:link href="https://eueung.github.io/ET3010/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>https://eueung.github.io/ET3010/onepage/readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eueung.github.io/ET3010/onepage/readme/</guid>
+      <description>
+
+&lt;h1 id=&#34;ltka-h1-2016&#34;&gt;LTKA - H1/2016&lt;/h1&gt;
+
+&lt;p&gt;ET-3010&lt;br /&gt;
+&lt;strong&gt;Layanan Tersambung dan Komputasi Awan&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Connected Services and Cloud Computing&lt;/strong&gt;&lt;br /&gt;
+Dr.-Ing. Eueung Mulyana&lt;br /&gt;
+&lt;strong&gt;Institut Teknologi Bandung&lt;/strong&gt;&lt;br /&gt;
+eueung(-at-)stei.itb.ac.id&lt;/p&gt;
+
+&lt;h2 id=&#34;slides-revisions-on-progress&#34;&gt;Slides (Revisions on Progress)&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://speakerdeck.com/eueung/introduction-to-connected-services&#34;&gt;Introduction to Connected Services&lt;/a&gt;&lt;br /&gt;
+Previous Version - &lt;a href=&#34;https://speakerdeck.com/eueung/ltka-01&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Connected Services - &lt;a href=&#34;https://speakerdeck.com/eueung/connected-services-models-and-architecture&#34;&gt;Models and Architecture&lt;/a&gt;&lt;br /&gt;
+Previous Version - &lt;a href=&#34;https://speakerdeck.com/eueung/ltka-02&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Services Convergence &amp;amp; Digital Ecosystems &lt;a href=&#34;https://speakerdeck.com/eueung/services-convergence&#34;&gt;Part-1&lt;/a&gt;&lt;br /&gt;
+Services Convergence &amp;amp; Digital Ecosystems &lt;a href=&#34;https://speakerdeck.com/eueung/digital-ecosystems&#34;&gt;Part-2&lt;/a&gt;&lt;br /&gt;
+Previous Version - &lt;a href=&#34;https://speakerdeck.com/eueung/ltka-03&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Connected Things (Internet of Things - IoT)&lt;br /&gt;
+&lt;a href=&#34;https://speakerdeck.com/eueung/ltka-04-01a&#34;&gt;https://speakerdeck.com/eueung/ltka-04-01a&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://speakerdeck.com/eueung/ltka-04-01b&#34;&gt;https://speakerdeck.com/eueung/ltka-04-01b&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://speakerdeck.com/eueung/ltka-04-02a&#34;&gt;https://speakerdeck.com/eueung/ltka-04-02a&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://speakerdeck.com/eueung/ltka-04-02b&#34;&gt;https://speakerdeck.com/eueung/ltka-04-02b&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://speakerdeck.com/eueung/ltka-04-02c&#34;&gt;https://speakerdeck.com/eueung/ltka-04-02c&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Komputasi Awan&lt;br /&gt;
+&lt;a href=&#34;https://speakerdeck.com/eueung/ltka-05&#34;&gt;https://speakerdeck.com/eueung/ltka-05&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;labs&#34;&gt;Labs&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Arduino Basics &lt;a href=&#34;http://eueung.github.io/ET3010/arduino&#34;&gt;Online&lt;/a&gt; | &lt;a href=&#34;https://speakerdeck.com/eueung/arduino-basics&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ESP8266 Basics &lt;a href=&#34;http://eueung.github.io/ET3010/esp8266&#34;&gt;Online&lt;/a&gt; | &lt;a href=&#34;https://speakerdeck.com/eueung/esp8266-basics&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;SBCs &amp;amp; Raspberry Pi Basics &lt;a href=&#34;http://eueung.github.io/ET3010/raspi&#34;&gt;Online&lt;/a&gt; | &lt;a href=&#34;https://speakerdeck.com/eueung/single-board-computers-and-raspberry-pi-basics&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;OpenStack Basics &lt;a href=&#34;http://eueung.github.io/ET3010/openstack&#34;&gt;Online&lt;/a&gt; | &lt;a href=&#34;https://speakerdeck.com/eueung/openstack-basics&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Paul Golding, &lt;strong&gt;Connected Services: A Guide to the Internet Technologies Shaping the Future of Mobile Services and Operators&lt;/strong&gt;, John Wiley &amp;amp; Sons Ltd., 2011, ISBN 978-0-470-97455-1&lt;/li&gt;
+&lt;li&gt;Dan C. Marinescu, &lt;strong&gt;Cloud Computing Theory and Practice&lt;/strong&gt;, Morgan Kaufmann, Elsevier Inc., 2013, ISBN: 978-0-12404-627-6&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;others&#34;&gt;Others&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Networked Life&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&#34;https://www.coursera.org/course/networks&#34;&gt;https://www.coursera.org/course/networks&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
